@@ -1,5 +1,5 @@
 context:
-  version: "1.5.2"
+  version: "1.5.3"
 
 package:
   name: colgrep
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/lightonai/next-plaid/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 3272cbd5a0ae0de7da85487ab2a3b8cde450298536e97bcd2f1625d626e808d8
+  sha256: fe4597f692086c0c3a381a51ad7df75bf221401207f48df889ce1c29b77ee7b6
 
 build:
   number: 0
